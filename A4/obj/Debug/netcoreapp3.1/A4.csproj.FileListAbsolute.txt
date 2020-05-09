@@ -1,0 +1,13 @@
+D:\Studies\Programming\Practice\Core\Threading\A4\bin\Debug\netcoreapp3.1\A4.exe
+D:\Studies\Programming\Practice\Core\Threading\A4\bin\Debug\netcoreapp3.1\A4.deps.json
+D:\Studies\Programming\Practice\Core\Threading\A4\bin\Debug\netcoreapp3.1\A4.runtimeconfig.json
+D:\Studies\Programming\Practice\Core\Threading\A4\bin\Debug\netcoreapp3.1\A4.runtimeconfig.dev.json
+D:\Studies\Programming\Practice\Core\Threading\A4\bin\Debug\netcoreapp3.1\A4.dll
+D:\Studies\Programming\Practice\Core\Threading\A4\bin\Debug\netcoreapp3.1\A4.pdb
+D:\Studies\Programming\Practice\Core\Threading\A4\obj\Debug\netcoreapp3.1\A4.csprojAssemblyReference.cache
+D:\Studies\Programming\Practice\Core\Threading\A4\obj\Debug\netcoreapp3.1\A4.AssemblyInfoInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\A4\obj\Debug\netcoreapp3.1\A4.AssemblyInfo.cs
+D:\Studies\Programming\Practice\Core\Threading\A4\obj\Debug\netcoreapp3.1\A4.csproj.CoreCompileInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\A4\obj\Debug\netcoreapp3.1\A4.dll
+D:\Studies\Programming\Practice\Core\Threading\A4\obj\Debug\netcoreapp3.1\A4.pdb
+D:\Studies\Programming\Practice\Core\Threading\A4\obj\Debug\netcoreapp3.1\A4.genruntimeconfig.cache
