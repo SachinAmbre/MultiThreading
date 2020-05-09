@@ -1,0 +1,12 @@
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\bin\Debug\netcoreapp3.1\Ping.exe
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\bin\Debug\netcoreapp3.1\Ping.deps.json
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\bin\Debug\netcoreapp3.1\Ping.runtimeconfig.json
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\bin\Debug\netcoreapp3.1\Ping.runtimeconfig.dev.json
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\bin\Debug\netcoreapp3.1\Ping.dll
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\bin\Debug\netcoreapp3.1\Ping.pdb
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\obj\Debug\netcoreapp3.1\Ping.AssemblyInfoInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\obj\Debug\netcoreapp3.1\Ping.AssemblyInfo.cs
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\obj\Debug\netcoreapp3.1\Ping.csproj.CoreCompileInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\obj\Debug\netcoreapp3.1\Ping.dll
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\obj\Debug\netcoreapp3.1\Ping.pdb
+D:\Studies\Programming\Practice\Core\Threading\Mutex1\obj\Debug\netcoreapp3.1\Ping.genruntimeconfig.cache

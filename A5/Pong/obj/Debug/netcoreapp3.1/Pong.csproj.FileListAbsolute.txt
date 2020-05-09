@@ -1,0 +1,12 @@
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\bin\Debug\netcoreapp3.1\Pong.exe
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\bin\Debug\netcoreapp3.1\Pong.deps.json
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\bin\Debug\netcoreapp3.1\Pong.runtimeconfig.json
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\bin\Debug\netcoreapp3.1\Pong.runtimeconfig.dev.json
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\bin\Debug\netcoreapp3.1\Pong.dll
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\bin\Debug\netcoreapp3.1\Pong.pdb
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\obj\Debug\netcoreapp3.1\Pong.AssemblyInfoInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\obj\Debug\netcoreapp3.1\Pong.AssemblyInfo.cs
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\obj\Debug\netcoreapp3.1\Pong.csproj.CoreCompileInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\obj\Debug\netcoreapp3.1\Pong.dll
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\obj\Debug\netcoreapp3.1\Pong.pdb
+D:\Studies\Programming\Practice\Core\Threading\Mutex2\obj\Debug\netcoreapp3.1\Pong.genruntimeconfig.cache
