@@ -1,0 +1,13 @@
+D:\Studies\Programming\Practice\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.exe
+D:\Studies\Programming\Practice\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.deps.json
+D:\Studies\Programming\Practice\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.json
+D:\Studies\Programming\Practice\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.dev.json
+D:\Studies\Programming\Practice\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.dll
+D:\Studies\Programming\Practice\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.pdb
+D:\Studies\Programming\Practice\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.csprojAssemblyReference.cache
+D:\Studies\Programming\Practice\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfoInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfo.cs
+D:\Studies\Programming\Practice\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.csproj.CoreCompileInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.dll
+D:\Studies\Programming\Practice\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.pdb
+D:\Studies\Programming\Practice\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.genruntimeconfig.cache

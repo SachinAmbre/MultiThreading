@@ -1,0 +1,12 @@
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\bin\Debug\netcoreapp3.1\MultiThread.exe
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\bin\Debug\netcoreapp3.1\MultiThread.deps.json
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\bin\Debug\netcoreapp3.1\MultiThread.runtimeconfig.json
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\bin\Debug\netcoreapp3.1\MultiThread.runtimeconfig.dev.json
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\bin\Debug\netcoreapp3.1\MultiThread.dll
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\bin\Debug\netcoreapp3.1\MultiThread.pdb
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\obj\Debug\netcoreapp3.1\MultiThread.AssemblyInfoInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\obj\Debug\netcoreapp3.1\MultiThread.AssemblyInfo.cs
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\obj\Debug\netcoreapp3.1\MultiThread.csproj.CoreCompileInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\obj\Debug\netcoreapp3.1\MultiThread.dll
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\obj\Debug\netcoreapp3.1\MultiThread.pdb
+D:\Studies\Programming\Practice\Core\Threading\MultiThread\MultiThread\obj\Debug\netcoreapp3.1\MultiThread.genruntimeconfig.cache
