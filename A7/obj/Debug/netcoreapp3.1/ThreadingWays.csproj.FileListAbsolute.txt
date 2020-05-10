@@ -1,0 +1,13 @@
+D:\Studies\Programming\Practice\Core\Threading\A7\bin\Debug\netcoreapp3.1\ThreadingWays.exe
+D:\Studies\Programming\Practice\Core\Threading\A7\bin\Debug\netcoreapp3.1\ThreadingWays.deps.json
+D:\Studies\Programming\Practice\Core\Threading\A7\bin\Debug\netcoreapp3.1\ThreadingWays.runtimeconfig.json
+D:\Studies\Programming\Practice\Core\Threading\A7\bin\Debug\netcoreapp3.1\ThreadingWays.runtimeconfig.dev.json
+D:\Studies\Programming\Practice\Core\Threading\A7\bin\Debug\netcoreapp3.1\ThreadingWays.dll
+D:\Studies\Programming\Practice\Core\Threading\A7\bin\Debug\netcoreapp3.1\ThreadingWays.pdb
+D:\Studies\Programming\Practice\Core\Threading\A7\obj\Debug\netcoreapp3.1\ThreadingWays.csprojAssemblyReference.cache
+D:\Studies\Programming\Practice\Core\Threading\A7\obj\Debug\netcoreapp3.1\ThreadingWays.AssemblyInfoInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\A7\obj\Debug\netcoreapp3.1\ThreadingWays.AssemblyInfo.cs
+D:\Studies\Programming\Practice\Core\Threading\A7\obj\Debug\netcoreapp3.1\ThreadingWays.csproj.CoreCompileInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\A7\obj\Debug\netcoreapp3.1\ThreadingWays.dll
+D:\Studies\Programming\Practice\Core\Threading\A7\obj\Debug\netcoreapp3.1\ThreadingWays.pdb
+D:\Studies\Programming\Practice\Core\Threading\A7\obj\Debug\netcoreapp3.1\ThreadingWays.genruntimeconfig.cache
