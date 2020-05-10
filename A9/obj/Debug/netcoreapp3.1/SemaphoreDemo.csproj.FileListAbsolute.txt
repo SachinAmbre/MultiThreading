@@ -1,0 +1,12 @@
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\SemaphoreDemo.exe
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\SemaphoreDemo.deps.json
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\SemaphoreDemo.runtimeconfig.json
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\SemaphoreDemo.runtimeconfig.dev.json
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\SemaphoreDemo.dll
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\SemaphoreDemo.pdb
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\SemaphoreDemo.AssemblyInfoInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\SemaphoreDemo.AssemblyInfo.cs
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\SemaphoreDemo.csproj.CoreCompileInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\SemaphoreDemo.dll
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\SemaphoreDemo.pdb
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\SemaphoreDemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.exe
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.deps.json
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.runtimeconfig.json
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.runtimeconfig.dev.json
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.dll
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.pdb
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.csprojAssemblyReference.cache
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.AssemblyInfoInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.AssemblyInfo.cs
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.csproj.CoreCompileInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.dll
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.pdb
+D:\Studies\Programming\Practice\Core\Threading\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.genruntimeconfig.cache
