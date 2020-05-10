@@ -1,0 +1,13 @@
+D:\Studies\Programming\Practice\Core\Threading\A6\bin\Debug\netcoreapp3.1\A6.exe
+D:\Studies\Programming\Practice\Core\Threading\A6\bin\Debug\netcoreapp3.1\A6.deps.json
+D:\Studies\Programming\Practice\Core\Threading\A6\bin\Debug\netcoreapp3.1\A6.runtimeconfig.json
+D:\Studies\Programming\Practice\Core\Threading\A6\bin\Debug\netcoreapp3.1\A6.runtimeconfig.dev.json
+D:\Studies\Programming\Practice\Core\Threading\A6\bin\Debug\netcoreapp3.1\A6.dll
+D:\Studies\Programming\Practice\Core\Threading\A6\bin\Debug\netcoreapp3.1\A6.pdb
+D:\Studies\Programming\Practice\Core\Threading\A6\obj\Debug\netcoreapp3.1\A6.csprojAssemblyReference.cache
+D:\Studies\Programming\Practice\Core\Threading\A6\obj\Debug\netcoreapp3.1\A6.AssemblyInfoInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\A6\obj\Debug\netcoreapp3.1\A6.AssemblyInfo.cs
+D:\Studies\Programming\Practice\Core\Threading\A6\obj\Debug\netcoreapp3.1\A6.csproj.CoreCompileInputs.cache
+D:\Studies\Programming\Practice\Core\Threading\A6\obj\Debug\netcoreapp3.1\A6.dll
+D:\Studies\Programming\Practice\Core\Threading\A6\obj\Debug\netcoreapp3.1\A6.pdb
+D:\Studies\Programming\Practice\Core\Threading\A6\obj\Debug\netcoreapp3.1\A6.genruntimeconfig.cache
